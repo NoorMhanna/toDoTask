@@ -1,0 +1,29 @@
+
+.todo{
+    background-color: #949090;
+    width: 50%;
+    color: rgb(10, 1, 1);
+    text-align: center;
+    padding: 10px;
+}
+
+input {
+    width: 30%;
+    padding: 10px;
+}
+
+
+.btnAdd {
+    padding: 10px;
+    width: 25%;
+    background: #a11d33;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.checked{
+   text-decoration: line-through;
+  }
+
